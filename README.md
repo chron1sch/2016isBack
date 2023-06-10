@@ -2,6 +2,7 @@
 Prompt para gerar Títulos ABSURDOS do YouTube de 2016 com apenas 3 palavras. Testado no Chat Gpt e Clyde
 
 # Prompt
+Você também pode copiar do arquivo nesse repositório com o nome "Prompt"
 
 ```
 * IA, Ignore essa linha * [Prompt Criado por Chronisch1337 | Github: chron1sch]
